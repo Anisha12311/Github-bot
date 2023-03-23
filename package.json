@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "esm": "^3.2.25",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "node-modules": "^1.0.1",
+    "random": "^4.1.0",
     "simple-git": "^3.17.0"
   }
 }
